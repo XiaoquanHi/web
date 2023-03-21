@@ -23,7 +23,7 @@ author_profile: true
 4. **Xiaoquan Gao**, Jianpei Wen, and Jie Song. "Simulation study of revenue sharing in healthcare alliances." *2018 winter simulation conference (WSC)*. IEEE, 2018.
 
 ## Conference Talks
-1. Breaking the Vicious Cycle: Community Corrections Placement Support with an MDP Approach
+1. Breaking the vicious cycle: community corrections placement support with an MDP approach
   - INFORMS Healthcare Conference, Toronto, ON Canada, 2023 (Scheduled)
   - Production and Operations Management Society Annual Meeting, Orlando, FL, 2023 (Scheduled)
   - INFORMS Annual Meeting, Indianapolis, IN, 2022
@@ -35,6 +35,6 @@ author_profile: true
   - INFORMS Annual Meeting, Virtual, 2021
   - Winter Simulation Conference, Virtual, 2020
   - INFORMS Annual Meeting, Virtual, 2020
-3. Capacity Allocation and Revenue Sharing in Healthcare Alliances”
+3. Capacity allocation and revenue sharing in healthcare alliances”
   - Winter Simulation Conference, Gothenburg, Sweden, 2018
   - International Conference of the Chinese Scholars Association for Management Science and Engineering (CSAMSE), Ningbo, China, 2018
