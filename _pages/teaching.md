@@ -1,5 +1,6 @@
 ---
 permalink: /teaching/
+title: ""
 ---
 ## Student Mentoring
 - Advise a Purdue Aeronautics and Astronautics Engineering master student, developing a GUI to visualize occupancy trends and crime rate forecasting and working on a paper together
