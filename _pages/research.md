@@ -11,8 +11,8 @@ title: ""
   - Mitigate the incarceration congestion and individual outcomes with dynamic placment policy and provide insights into capacity planning in the criminal justice system
 
 2. **Xiaoquan Gao**, Nan Kong, Paul M. Griffin, "Shortening emergency medical response time with joint operations of UAVs with ambulances", Major revision at *Manufacturing & Service Operations Management*.
-  - Extend the MDP-based EMS operations analytics framework for joint operations and design a set of effective basis functions in consideration of service heterogeneity of ambulances and UAVs
-  - Improve emergency response to opioid overdose, which showcases how intelligent autonomous logistic technology can revolutionize emergency medical services in rural America
+  - Extend the MDP-based EMS operations analytics framework for joint operations and design a set of effective basis functions in consideration of service heterogeneity of ambulances and UAVs (drones)
+  - Demonstrate the benefits of incorporating UAVs into the EMS system and provide guidance for EMS agencies on how to incorporate UAVs into their operations
   
 3. **Xiaoquan Gao**, Sabriya Alam, Pengyi Shi, Franklin Dexter, and Nan Kong. Interpretable machine learning models to predict hospital patient readmission. Under revision at *BMC Medical Informatics and Decision Making*
   - Facilitate the practical adoption by medical professionals of machine learning models with improved interpretability
