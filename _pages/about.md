@@ -26,3 +26,5 @@ I will attend
 * INFORMS MSOM 2023, Montreal, June 24-26, 2023
 * INFORMS Healthcare Conference, Toronto, July 26-28, 2023 
 * INFORMS Annual Meeting, Phoenix, October 15-18, 2023
+
+
