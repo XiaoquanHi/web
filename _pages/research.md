@@ -6,13 +6,13 @@ title: ""
 ---
 # Working Papers
 1. **Xiaoquan Gao**, Pengyi Shi, Nan Kong, "Breaking the Vicious Cycle: Community Corrections Placement Support with an MDP Approach", *Working Paper*
-  - Study the placement decisions for community corrections and relevant capacity planning via an MDP model and prove structural properties for policy insights
+  - Study the placement decisions for community corrections and associated capacity planning via an MDP model and establish structural properties for policy insights
   - Leverage a two-timescale approach to develop algorithmic solutions with global optimality guaranteed by the value function convexity
-  - Mitigate the incarceration congestion and individual outcomes with dynamic placment policy and provide insights into capacity planning in the criminal justice system
+  - Mitigate the incarceration congestion and improve individual outcomes through dynamic placment policy and provide insights into capacity planning in the criminal justice system
 
 2. **Xiaoquan Gao**, Nan Kong, Paul M. Griffin, "Shortening emergency medical response time with joint operations of UAVs with ambulances", Major revision at *Manufacturing & Service Operations Management*.
   - Extend the MDP-based EMS operations analytics framework for joint operations and design a set of effective basis functions in consideration of service heterogeneity of ambulances and UAVs (drones)
-  - Demonstrate the benefits of incorporating UAVs into the EMS system and provide guidance for EMS agencies on how to incorporate UAVs into their operations
+  - Demonstrate the advantages of incorporating UAVs into the EMS system and provide guidance for EMS agencies on how to incorporate UAVs into their operations
   
 3. **Xiaoquan Gao**, Sabriya Alam, Pengyi Shi, Franklin Dexter, and Nan Kong. Interpretable machine learning models to predict hospital patient readmission. Under revision at *BMC Medical Informatics and Decision Making*
   - Facilitate the practical adoption by medical professionals of machine learning models with improved interpretability
