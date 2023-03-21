@@ -85,9 +85,9 @@ author:
   bio              : "Ph.D. candidate, Industrial Engineering, Purdue University"
   location         : "West Lafayette, IN"
   employer         :
-  pubmed           : "scholar.google.com/citations?user=s2IsRm8AAAAJ&hl=en"
-  googlescholar    : "gao568@purdue.edu"
-  email            :
+  pubmed           : 
+  googlescholar    : "scholar.google.com/citations?user=s2IsRm8AAAAJ&hl=en"
+  email            : "gao568@purdue.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "xiaoquan-gao-operations-research"
-  orcid            : "orcid.org/0000-0002-8746-0303"
+  orcid            : "https://orcid.org/0000-0002-8746-0303"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
