@@ -2,6 +2,15 @@
 permalink: /teaching/
 title: ""
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P44T7G85MC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-P44T7G85MC');
+</script>
 # Student Mentoring
 - Mentor a Purdue Aeronautics and Astronautics Engineering master student: develop a user interface to visualize occupancy trends and crime rate forecasting and work on a paper together
 - Mentor a Purdue Industrial Engineering undergraduate student: investigate the treatment fairness with respect to race and gender based on [NYC Hanes Database](https://www.nyc.gov/site/doh/data/data-sets/nyc-hanes-info.page)
