@@ -4,6 +4,15 @@ permalink: /research/
 author_profile: true
 title: ""
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P44T7G85MC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-P44T7G85MC');
+</script>
 # Working Papers
 1. **Xiaoquan Gao**, Pengyi Shi, Nan Kong, "Breaking the Vicious Cycle: Community Corrections Placement Support with an MDP Approach", *Working Paper*
   - Study the placement decisions for community corrections and associated capacity planning via an MDP model and establish structural properties for policy insights
