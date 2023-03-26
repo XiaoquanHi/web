@@ -7,7 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P44T7G85MC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-P44T7G85MC');
+</script>
 Welcome! My name is Xiaoquan Gao. I am a fourth-year Ph.D. student in [School of Industrial Engineering](http://engineering.purdue.edu/IE) at Purdue University. I am advised by Prof. [Nan Kong](https://engineering.purdue.edu/BASO/people/Nan_Kong), Prof. [Pengyi Shi](https://web.ics.purdue.edu/~shi178/), and Prof. [Paul M. Griffin](https://www.ime.psu.edu/department/directory-detail-g.aspx?q=pmg14). Previously, I received my bachelor’s degree in Theoretical and Applied Mechanics from [Peking University](https://english.pku.edu.cn/) in 2019.
 
 Research Interests
