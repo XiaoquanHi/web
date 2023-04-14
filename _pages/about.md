@@ -1,5 +1,4 @@
 ---
-<meta name="google-site-verification" content="OrbqbGHi0mh8xqpqsPJnfTkl3_q207b0IypJEYfXSoo" />
 permalink: /
 title: ""
 excerpt: "About me"
@@ -8,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- Google Search Console verification code -->
+<meta name="google-site-verification" content="OrbqbGHi0mh8xqpqsPJnfTkl3_q207b0IypJEYfXSoo" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-P44T7G85MC"></script>
 <script>
