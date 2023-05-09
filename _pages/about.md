@@ -29,14 +29,24 @@ My primary research interests focus on leveraging stochastic modeling and reinfo
 
 My current research combines tools from stochastic models, optimization, and reinforcement learning. In particular, my work has focused on (i) modeling dynamic systems with non-conventional service providers, and (ii) developing flexible algorithms tailored to the decision problem’s structure.
 
-
 Upcoming Talks
 ------
-I will attend 
-* IISE Annual Conference 2023, New Orleans, May 20-23, 2023
-* POMS Annual Meeting 2023, Orlando, May 21-25, 2023
-* INFORMS MSOM 2023, Montreal, June 24-26, 2023
-* INFORMS Healthcare Conference, Toronto, July 26-28, 2023 
-* INFORMS Annual Meeting, Phoenix, October 15-18, 2023
-
-
+1. IISE Annual Conferences, New Orleans, LA, 2023
+  - Title: Stop the Revolving Door: Decision Support for Community Corrections Placement
+  - Section: Best Practice Case Studies in Service Systems Engineering Section
+  - Time and Location: Sunday, May 21, 8:00 AM - 9:20 AM, Strand 12B (Level Two)
+2. POMS Annual Meeting, Orlando, FL, 2023
+  - Title: Breaking the Vicious Cycle of Reincarceration with Incarceration Diversion Optimization
+  - Section: Data Analytics for Social Goods (Healthcare Analytics track)
+  - Time and Location: Wednesday, May 24, 9:45 AM - 11:15 AM, Celebration 4
+2. MSOM Annual Meeting, Montreal, QC, 2023 
+  - Title: Stop the Revolving Door: MDP-based Decision Support for Community Corrections Placement
+  - Section: TBD
+  - Time and Location: TBD
+4. INFORMS Healthcare Conference, Toronto, ON, 2023
+  (a) Title: Breaking the Vicious Cycle: Community Corrections Placement Support with an MDP Approach
+    - Section: Data-Driven Patient Decision-Making
+    - Time and Location: uly 26, 2023, 8:00 AM - 9:30 AM, Johnston
+  (b) Title: Shortening Emergency Medical Response Time with Unmanned Aerial Vehicle-Ambulance Joint Operations
+    - Section: Innovative Approaches to Resource Management for Social Goods
+    - Time and Location: July 26, 2023, 11:15 AM - 12:45 PM, Casson
