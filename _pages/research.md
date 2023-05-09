@@ -14,7 +14,7 @@ title: ""
 
   gtag('config', 'G-P44T7G85MC');
 </script>
-# Working Papers
+## Working Papers
 1. **Xiaoquan Gao**, Pengyi Shi, Nan Kong, "Breaking the Vicious Cycle: Community Corrections Placement Support with an MDP Approach", *In preparation for submission*
   - Study the placement decisions for community corrections and associated capacity planning via an MDP model and establish structural properties for policy insights
   - Leverage a two-timescale approach to develop algorithmic solutions with global optimality guaranteed by the value function convexity
@@ -24,12 +24,11 @@ title: ""
   - Extend the MDP-based EMS operations analytics framework for joint operations and design a set of effective basis functions in consideration of service heterogeneity of ambulances and UAVs (drones)
   - Demonstrate the advantages of incorporating UAVs into the EMS system and provide guidance for EMS agencies on how to incorporate UAVs into their operations
 
-# Published Papers and Conference Proceedings
+## Published Papers
 1. **Xiaoquan Gao**, Sabriya Alam, Pengyi Shi, Franklin Dexter, and Nan Kong. Interpretable machine learning models to predict hospital patient readmission. Accepted to *BMC Medical Informatics and Decision Making*
 2. **Xiaoquan Gao**, Jianpei Wen, and Jie Song. "Capacity allocation and revenue sharing in healthcare alliances." *Flexible Services and Manufacturing Journal* 32.4 (2020): 829-851
 
-
-# Conference Proceedings
+## Conference Proceedings
 1. Nan Kong and Juan C. Paz and **Xiaoquan Gao**. "EMS operations management: simulation, optimization, and new service models" *2022 Winter Simulation Conference (WSC)*. IEEE, 2022
 2. **Xiaoquan Gao**, Nan Kong, and Paul M. Griffin. "Dynamic optimization of drone dispatch for substance overdose rescue." *2020 Winter Simulation Conference (WSC)*. IEEE, 2020
 3. **Xiaoquan Gao**, Jianpei Wen, and Jie Song. "Simulation study of revenue sharing in healthcare alliances." *2018 winter simulation conference (WSC)*. IEEE, 2018.
