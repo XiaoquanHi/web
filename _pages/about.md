@@ -38,7 +38,7 @@ Upcoming Talks
 2. POMS Annual Meeting, Orlando, FL, 2023
   - Title: Breaking the Vicious Cycle of Reincarceration with Incarceration Diversion Optimization
   - Section: Data Analytics for Social Goods (Healthcare Analytics track)
-  - Time and Location: Wednesday, May 24, 9:45 AM - 11:15 AM, Celebration 4
+  - Time and Location: Monday, May 22, 1:45 PM - 3:15 PM, Celebration 5
 2. MSOM Annual Meeting, Montreal, QC, 2023 
   - Title: Stop the Revolving Door: MDP-based Decision Support for Community Corrections Placement
   - Section: TBD
