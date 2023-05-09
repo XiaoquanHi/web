@@ -44,9 +44,9 @@ Upcoming Talks
   - Section: TBD
   - Time and Location: TBD
 4. INFORMS Healthcare Conference, Toronto, ON, 2023
-    1. Talk 1: Breaking the Vicious Cycle: Community Corrections Placement Support with an MDP Approach
+    i. Talk 1: Breaking the Vicious Cycle: Community Corrections Placement Support with an MDP Approach
       - Section: Data-Driven Patient Decision-Making
-      - Time and Location: uly 26, 2023, 8:00 AM - 9:30 AM, Johnston
-    2. Talk 2: Shortening Emergency Medical Response Time with Unmanned Aerial Vehicle-Ambulance Joint Operations
+      - Time and Location: July 26, 2023, 8:00 AM - 9:30 AM, Johnston
+    ii. Talk 2: Shortening Emergency Medical Response Time with Unmanned Aerial Vehicle-Ambulance Joint Operations
       - Section: Innovative Approaches to Resource Management for Social Goods
       - Time and Location: July 26, 2023, 11:15 AM - 12:45 PM, Casson
