@@ -25,7 +25,7 @@ title: ""
   - Demonstrate the advantages of incorporating UAVs into the EMS system and provide guidance for EMS agencies on how to incorporate UAVs into their operations
 
 ## Published Papers
-1. **Xiaoquan Gao**, Sabriya Alam, Pengyi Shi, Franklin Dexter, and Nan Kong. Interpretable machine learning models to predict hospital patient readmission. Accepted to *BMC Medical Informatics and Decision Making*
+1. **Xiaoquan Gao**, Sabriya Alam, Pengyi Shi, Franklin Dexter, and Nan Kong. Interpretable machine learning models to predict hospital patient readmission. Accepted at *BMC Medical Informatics and Decision Making*
 2. **Xiaoquan Gao**, Jianpei Wen, and Jie Song. "Capacity allocation and revenue sharing in healthcare alliances." *Flexible Services and Manufacturing Journal* 32.4 (2020): 829-851
 
 ## Conference Proceedings
