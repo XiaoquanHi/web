@@ -31,19 +31,7 @@ My current research combines tools from stochastic models, optimization, and rei
 
 Upcoming Talks
 ------
-1. IISE Annual Conferences, New Orleans, LA, 2023
-  - Title: Stop the Revolving Door: Decision Support for Community Corrections Placement
-  - Section: Best Practice Case Studies in Service Systems Engineering Section
-  - Time and Location: Sunday, May 21, 8:00 AM - 9:20 AM, Strand 12B (Level Two)
-2. POMS Annual Meeting, Orlando, FL, 2023
-  - Title: Breaking the Vicious Cycle of Reincarceration with Incarceration Diversion Optimization
-  - Section: Data Analytics for Social Goods (Healthcare Analytics track)
-  - Time and Location: Monday, May 22, 1:45 PM - 3:15 PM, Celebration 5
-2. MSOM Annual Meeting, Montreal, QC, 2023 
-  - Title: Stop the Revolving Door: MDP-based Decision Support for Community Corrections Placement
-  - Section: TBD
-  - Time and Location: TBD
-4. INFORMS Healthcare Conference, Toronto, ON, 2023
+INFORMS Healthcare Conference, Toronto, ON, 2023
   - Talk 1: Breaking the Vicious Cycle: Community Corrections Placement Support with an MDP Approach
        - Section: Data-Driven Patient Decision-Making
        - Time and Location: July 26, 2023, 8:00 AM - 9:30 AM, Johnston
