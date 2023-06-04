@@ -22,6 +22,8 @@ redirect_from:
 
 Welcome! My name is Xiaoquan Gao. I am a fourth-year Ph.D. student in [School of Industrial Engineering](http://engineering.purdue.edu/IE) at Purdue University. I am advised by Prof. [Nan Kong](https://engineering.purdue.edu/BASO/people/Nan_Kong), Prof. [Pengyi Shi](https://web.ics.purdue.edu/~shi178/), and Prof. [Paul M. Griffin](https://www.ime.psu.edu/department/directory-detail-g.aspx?q=pmg14). Previously, I received my bachelor’s degree in Theoretical and Applied Mechanics from [Peking University](https://english.pku.edu.cn/) in 2019.
 
+**I am on the 2023-2024 job market.**
+
 Research Interests
 ======
 
