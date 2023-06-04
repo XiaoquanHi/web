@@ -27,9 +27,7 @@ Welcome! My name is Xiaoquan Gao. I am a fourth-year Ph.D. student in [School of
 Research Interests
 ======
 
-My primary research interests focus on leveraging stochastic modeling and reinforcement learning to support decisions making in healthcare and public service operations. Broadly, the goal is to provide actionable policy recommendations to improve system's long-term outcomes. 
-
-My current research combines tools from stochastic models, optimization, and reinforcement learning. In particular, my work has focused on (i) modeling dynamic systems with non-conventional service providers, and (ii) developing flexible algorithms tailored to the decision problem’s structure.
+My primary research interests focus on leveraging stochastic modeling, optimization, and reinforcement learning to support decisions making in healthcare and public service operations. In particular, my work has focused on (i) modeling dynamic systems that involve non-conventional service providers, (ii) developing flexible algorithms tailored to the decision problem’s structure, and (iii) bridging the gap between current practice and optimized decision-making through community-engaged research. By leveraging these tools, I aim to understand the intricacies of real-world systems and provide actionable solutions that enhance long-term outcomes.
 
 Upcoming Talks
 ------
