@@ -31,6 +31,7 @@ My primary research interests focus on leveraging stochastic modeling, optimizat
   - modeling dynamic systems that involve non-conventional service providers
   - developing flexible algorithms tailored to the decision problem’s structure
   - bridging the gap between current practice and optimized decision-making through community-engaged research. 
+
 By leveraging these tools, I aim to understand the intricacies of real-world systems and provide actionable solutions that enhance long-term outcomes.
 
 Upcoming Talks
