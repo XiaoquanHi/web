@@ -16,8 +16,9 @@ title: ""
 </script>
 ## Working Papers
 1. **Xiaoquan Gao**, Pengyi Shi, Nan Kong, "Breaking the Vicious Cycle: Community Corrections Placement Support with an MDP Approach", *In preparation for submission*
+  * First place, Outstanding Innovation in Service Systems Engineering Award, IISE (2023)
   - Study the placement decisions for community corrections and associated capacity planning via an MDP model and establish structural properties for policy insights
-  - Leverage a two-timescale approach to develop algorithmic solutions with global optimality guaranteed by the value function convexity
+  - Propose a two-timescale approximation scheme for algorithmic solutions with global optimality guaranteed by the value function convexity
   - Mitigate the incarceration congestion and improve individual outcomes through dynamic placment policy and provide insights into capacity planning in the criminal justice system
 
 2. **Xiaoquan Gao**, Nan Kong, Paul M. Griffin, "Shortening emergency medical response time with joint operations of UAVs with ambulances", Second round revision at *Manufacturing & Service Operations Management*.
