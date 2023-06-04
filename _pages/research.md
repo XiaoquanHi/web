@@ -16,7 +16,7 @@ title: ""
 </script>
 ## Working Papers
 1. **Xiaoquan Gao**, Pengyi Shi, Nan Kong, "Breaking the Vicious Cycle: Community Corrections Placement Support with an MDP Approach", *In preparation for submission*
-  * First place, Outstanding Innovation in Service Systems Engineering Award, IISE (2023)
+  - *First place, Outstanding Innovation in Service Systems Engineering Award, IISE (2023)*
   - Study the placement decisions for community corrections and associated capacity planning via an MDP model and establish structural properties for policy insights
   - Propose a two-timescale approximation scheme for algorithmic solutions with global optimality guaranteed by the value function convexity
   - Mitigate the incarceration congestion and improve individual outcomes through dynamic placment policy and provide insights into capacity planning in the criminal justice system
