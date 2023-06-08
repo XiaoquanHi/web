@@ -26,12 +26,12 @@ title: ""
   - Demonstrate the advantages of incorporating UAVs into the EMS system and provide guidance for EMS agencies on how to incorporate UAVs into their operations
 
 ## Published Papers
-1. **Xiaoquan Gao**, Sabriya Alam, Pengyi Shi, Franklin Dexter, and Nan Kong. Interpretable machine learning models to predict hospital patient readmission. Accepted at *BMC Medical Informatics and Decision Making*
+1. **Xiaoquan Gao**, Sabriya Alam, Pengyi Shi, Franklin Dexter, and Nan Kong. Interpretable machine learning models to predict hospital patient readmission. *BMC Medical Informatics and Decision Making* 23.1 (2023): 1-11
 2. **Xiaoquan Gao**, Jianpei Wen, and Jie Song. "Capacity allocation and revenue sharing in healthcare alliances." *Flexible Services and Manufacturing Journal* 32.4 (2020): 829-851
 
 ## Conference Proceedings
 1. Nan Kong and Juan C. Paz and **Xiaoquan Gao**. "EMS operations management: simulation, optimization, and new service models" *2022 Winter Simulation Conference (WSC)*. IEEE, 2022
 2. **Xiaoquan Gao**, Nan Kong, and Paul M. Griffin. "Dynamic optimization of drone dispatch for substance overdose rescue." *2020 Winter Simulation Conference (WSC)*. IEEE, 2020
-3. **Xiaoquan Gao**, Jianpei Wen, and Jie Song. "Simulation study of revenue sharing in healthcare alliances." *2018 winter simulation conference (WSC)*. IEEE, 2018.
+3. **Xiaoquan Gao**, Jianpei Wen, and Jie Song. "Simulation study of revenue sharing in healthcare alliances." *2018 winter simulation conference (WSC)*. IEEE, 2018
 
 
