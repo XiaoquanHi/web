@@ -15,7 +15,7 @@ title: ""
   gtag('config', 'G-P44T7G85MC');
 </script>
 ## Working Papers
-1. **Xiaoquan Gao**, Pengyi Shi, Nan Kong, ["Breaking the Vicious Cycle: Community Corrections Placement Support with an MDP Approach"](https://drive.google.com/file/d/1wclV07OwjNXGVEI2G8k8XkSO7eTuqw4s/view?usp=sharing), *In preparation for submission*
+1. **Xiaoquan Gao**, Pengyi Shi, Nan Kong, ["Stopping the revolving door: MDP-Based decision support for community corrections placement"](https://drive.google.com/file/d/1wclV07OwjNXGVEI2G8k8XkSO7eTuqw4s/view?usp=sharing), *In preparation for submission*
   - *First place, Outstanding Innovation in Service Systems Engineering Award, IISE (2023)*
   - Study the placement decisions for community corrections and associated capacity planning via an MDP model and establish structural properties for policy insights
   - Propose a two-timescale approximation scheme for algorithmic solutions with global optimality guaranteed by the value function convexity
