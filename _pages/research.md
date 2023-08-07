@@ -16,8 +16,8 @@ title: ""
 </script>
 ## Working Papers
 1. **Xiaoquan Gao**, Pengyi Shi, Nan Kong, ["Stopping the revolving door: MDP-Based decision support for community corrections placement"](https://drive.google.com/file/d/1wclV07OwjNXGVEI2G8k8XkSO7eTuqw4s/view?usp=sharing), *In preparation for submission*
-  - *Finalist, Service Science Best Student Paper Award, INFORMS (2023)*
-  - *First place, Outstanding Innovation in Service Systems Engineering Award, IISE (2023)*
+  - *Finalist, 2023 INFORMS Service Science Best Student Paper Award*
+  - *First place, 2023 IISE Outstanding Innovation in Service Systems Engineering Award*
   - Study the placement decisions for community corrections and associated capacity planning via an MDP model and establish structural properties for policy insights
   - Propose a two-timescale approximation scheme for algorithmic solutions with global optimality guaranteed by the value function convexity
   - Mitigate the incarceration congestion and improve individual outcomes through dynamic placment policy and provide insights into capacity planning in the criminal justice system
