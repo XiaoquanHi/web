@@ -28,18 +28,19 @@ Research Interests
 ======
 
 My primary research interests focus on leveraging stochastic modeling, optimization, and reinforcement learning to support decisions making in healthcare and public service operations. In particular, my work has focused on 
-  - modeling dynamic systems that involve non-conventional service providers
-  - developing flexible algorithms tailored to the decision problem’s structure
+  - modeling dynamic systems that involve public service providers;
+  - developing flexible algorithms tailored to the decision problem’s structure;
   - bridging the gap between current practice and optimized decision-making through community-engaged research. 
 
 By leveraging these tools, I aim to understand the intricacies of real-world systems and provide actionable solutions that enhance long-term outcomes.
 
 Upcoming Talks
 ------
-INFORMS Healthcare Conference, Toronto, ON, 2023
-  - Talk 1: Breaking the Vicious Cycle: Community Corrections Placement Support with an MDP Approach
-       - Section: Data-Driven Patient Decision-Making
-       - Time and Location: July 26, 2023, 8:00 AM - 9:30 AM, Johnston
-  - Talk 2: Shortening Emergency Medical Response Time with Unmanned Aerial Vehicle-Ambulance Joint Operations
-       - Section: Innovative Approaches to Resource Management for Social Goods
-       - Time and Location: July 26, 2023, 11:15 AM - 12:45 PM, Casson
+INFORMS Annual Meeting, October 15-18, Phoenix, Arizona
+  - Title: Stopping The Revolving Door: MDP-based Decision Support For Community Corrections Placement
+       - Session MB63 - Service Science Best Student Paper Award Competition (I); October 16, 10:45 AM - 12:00 PM, CC-West 102B
+       - Session TA21 - Healthcare Analytics and Sequential Decision Making; October 17, 8:00 AM - 9:15 AM, CC-North 128B
+  - Title: Shortening Emergency Medical Response Time with Unmanned Aerial Vehicle-Ambulance Joint Operations
+       - Session TE21 - Innovations in Healthcare Operations for Improved Patient Outcomes; October 17, 4:00 PM - 5:15 PM, CC-North 128B
+  - Title: Implementation of Interpretable Placement Decision Support in Community Corrections 
+       - Session TE20 - Optimal Resource Allocation in Healthcare Operations; October 17, 4:00 PM - 5:15 PM, CC-North 128A
