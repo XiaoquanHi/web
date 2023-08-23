@@ -19,5 +19,5 @@ title: ""
 
 # Teaching
 - Data Science in Public Health, Fall 2023
-	- Help develop course syllabus, prepare lecture slides, and create handouts
-	- Deliver guest lectures for two weeks, including four lectures and two recitation sessions (Scheduled for Aug 28 - Sep 8, 2023)
+	- Deliver three lectures and two recitation sessions on data prepossessing
+	- Design course syllabus, and prepare course materials and homework
