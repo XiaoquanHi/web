@@ -26,6 +26,9 @@ title: ""
   - Extend the MDP-based EMS operations analytics framework for joint operations and design a set of effective basis functions in consideration of service heterogeneity of ambulances and UAVs (drones)
   - Demonstrate the advantages of incorporating UAVs into the EMS system and provide guidance for EMS agencies on how to incorporate UAVs into their operations
 
+## Work in Progress
+1. **Xiaoquan Gao**, Griffin Carter, Pengyi Shi, and Nicole Adams. Implementation of interpretable placement decision support in community corrections. 
+
 ## Published Papers
 1. **Xiaoquan Gao**, Sabriya Alam, Pengyi Shi, Franklin Dexter, and Nan Kong. Interpretable machine learning models to predict hospital patient readmission. *BMC Medical Informatics and Decision Making* 23.1 (2023): 1-11
 2. **Xiaoquan Gao**, Jianpei Wen, and Jie Song. "Capacity allocation and revenue sharing in healthcare alliances." *Flexible Services and Manufacturing Journal* 32.4 (2020): 829-851
