@@ -38,7 +38,7 @@ Upcoming Talks
 ------
 INFORMS Annual Meeting, October 15-18, Phoenix, Arizona
   - Title: Stopping The Revolving Door: MDP-based Decision Support For Community Corrections Placement
-       - Session MB63 - Service Science Best Student Paper Award Competition (I); October 16, 10:45 AM - 12:00 PM, CC-West 102B
+       - Session MC63 - Service Science Best Student Paper Award Competition (II); October 16, 12:45 PM - 2:00 PM, CC-West 102B
        - Session TA21 - Healthcare Analytics and Sequential Decision Making; October 17, 8:00 AM - 9:15 AM, CC-North 128B
   - Title: Shortening Emergency Medical Response Time with Unmanned Aerial Vehicle-Ambulance Joint Operations
        - Session TE21 - Innovations in Healthcare Operations for Improved Patient Outcomes; October 17, 4:00 PM - 5:15 PM, CC-North 128B
