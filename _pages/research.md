@@ -15,11 +15,11 @@ title: ""
   gtag('config', 'G-P44T7G85MC');
 </script>
 ## Working Papers
-1. **Xiaoquan Gao**, Pengyi Shi, Nan Kong, ["Stopping the revolving door: MDP-Based decision support for community corrections placement"](https://drive.google.com/file/d/1wclV07OwjNXGVEI2G8k8XkSO7eTuqw4s/view?usp=sharing), *In preparation for submission*
-  - *Finalist, 2023 INFORMS Service Science Best Student Paper Award*
+1. **Xiaoquan Gao**, Pengyi Shi, Nan Kong, ["Stopping the revolving door: MDP-Based decision support for community corrections placement"](https://web.ics.purdue.edu/~shi178/CC_Manuscript.pdf), *In preparation for submission*
   - *First place, 2023 IISE Outstanding Innovation in Service Systems Engineering Award*
+  - *Finalist, 2023 INFORMS Service Science Best Student Paper Award*
   - Study the placement decisions for community corrections and associated capacity planning via an MDP model and establish structural properties for policy insights
-  - Propose a two-timescale approximation scheme for algorithmic solutions with global optimality guaranteed by the value function convexity
+  - Propose a two-timescale approximation scheme for algorithmic solutions with global optimality guaranteed by the value function superconvexity
   - Mitigate the incarceration congestion and improve individual outcomes through dynamic placment policy and provide insights into capacity planning in the criminal justice system
 
 2. **Xiaoquan Gao**, Nan Kong, Paul M. Griffin, ["Shortening emergency medical response time with joint operations of UAVs with ambulances"](https://drive.google.com/file/d/1ZAs2ELgQvs7HpcW9WJNbHgCPcwNnKHWO/view?usp=share_link), Third round review at *Manufacturing & Service Operations Management*.
