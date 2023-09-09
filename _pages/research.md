@@ -22,7 +22,7 @@ title: ""
   - Propose a two-timescale approximation scheme for algorithmic solutions with global optimality guaranteed by the value function superconvexity
   - Mitigate the incarceration congestion and improve individual outcomes through dynamic placment policy and provide insights into capacity planning in the criminal justice system
 
-2. **Xiaoquan Gao**, Nan Kong, Paul M. Griffin, ["Shortening emergency medical response time with joint operations of UAVs with ambulances"](https://drive.google.com/file/d/1ZAs2ELgQvs7HpcW9WJNbHgCPcwNnKHWO/view?usp=share_link), Third round review at *Manufacturing & Service Operations Management*.
+2. **Xiaoquan Gao**, Nan Kong, Paul M. Griffin, ["Shortening emergency medical response time with joint operations of UAVs with ambulances"](https://drive.google.com/file/d/1ZAs2ELgQvs7HpcW9WJNbHgCPcwNnKHWO/view?usp=share_link), Minor revision at *Manufacturing & Service Operations Management*.
   - Extend the MDP-based EMS operations analytics framework for joint operations and design a set of effective basis functions in consideration of service heterogeneity of ambulances and UAVs (drones)
   - Demonstrate the advantages of incorporating UAVs into the EMS system and provide guidance for EMS agencies on how to incorporate UAVs into their operations
 
