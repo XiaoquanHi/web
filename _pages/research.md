@@ -4,6 +4,7 @@ permalink: /research/
 author_profile: true
 title: ""
 ---
+<title>Xiaoquan Gao's Research</title>
 <meta name="google-site-verification" content="OrbqbGHi0mh8xqpqsPJnfTkl3_q207b0IypJEYfXSoo" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-P44T7G85MC"></script>
@@ -14,7 +15,7 @@ title: ""
 
   gtag('config', 'G-P44T7G85MC');
 </script>
-## Working Papers
+    <h1>Working Papers</h1>
 1. **Xiaoquan Gao**, Pengyi Shi, Nan Kong, ["Stopping the revolving door: MDP-Based decision support for community corrections placement"](https://web.ics.purdue.edu/~shi178/CC_Manuscript.pdf), *In preparation for submission*
   - *First place, 2023 IISE Outstanding Innovation in Service Systems Engineering Award*
   - *Finalist, 2023 INFORMS Service Science Best Student Paper Award*
