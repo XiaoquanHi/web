@@ -27,11 +27,11 @@ Welcome! My name is Xiaoquan Gao. I am a fifth-year Ph.D. student in [School of 
 Research Interests
 ======
 
-My research aims to enable data-driven, \textbf{socially responsible operations} in public systems, from healthcare to criminal justice. Despite their importance to societal welfare, decision-making in public systems often lacks analytical support and is not well-established in the research literature. I believe that data-driven analytical support can drive meaningful changes to these systems, especially in addressing \textbf{complex tradeoffs and resource constraints}. In particular, my work has focused on 
+My research aims to enable data-driven, **socially responsible operations** in public systems, from healthcare to criminal justice. Despite their importance to societal welfare, decision-making in public systems often lacks analytical support and is not well-established in the research literature. I believe that data-driven analytical support can drive meaningful changes to these systems, especially in addressing **complex tradeoffs and resource constraints**. Central to my research are tools from data science, stochastic modeling, and reinforcement learning. In particular, my work has focused on 
   - designing models that encapsulate the dynamic nature of public service operations;
   - developing actionable algorithms tailored to the decision problem's structure;
 
-I have been working closely with \textbf{community partners}, ensuring that my research is both grounded in practice and positioned for tangible \textbf{implementation}. By bridging the theory and practice, I identify promising research directions where cross-disciplinary perspectives can uncover novel approaches to persistent challenges.
+I have been working closely with **community partners**, ensuring that my research is both grounded in practice and positioned for **tangible implementation**. By bridging the theory and practice, I identify promising research directions where cross-disciplinary perspectives can uncover novel approaches to persistent challenges.
 
 Upcoming Talks
 ------
