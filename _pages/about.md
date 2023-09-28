@@ -27,9 +27,9 @@ Welcome! My name is Xiaoquan Gao. I am a fifth-year Ph.D. student in [School of 
 Research Interests
 ======
 
-My primary research interests focus on leveraging stochastic modeling, optimization, and reinforcement learning to support decisions making in public service operations such as healthcare and criminal justice. In particular, my work has focused on 
-  - modeling dynamic systems that involve public service providers;
-  - developing flexible algorithms tailored to the decision problem’s structure;
+My research aims to enable data-driven, \textbf{socially responsible operations} in public systems, from healthcare to criminal justice. Despite their importance to societal welfare, decision-making in public systems often lacks analytical support and is not well-established in the research literature. I believe that data-driven analytical support can drive meaningful changes to these systems, especially in addressing \textbf{complex tradeoffs and resource constraints}. In particular, my work has focused on 
+  - designing models that encapsulate the dynamic nature of public service operations;
+  - developing actionable algorithms tailored to the decision problem's structure;
   - bridging the gap between current practice and optimized decision-making through community-engaged research. 
 
 By leveraging these tools, I aim to understand the intricacies of real-world systems and provide actionable solutions that enhance long-term outcomes.
