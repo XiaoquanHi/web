@@ -49,6 +49,8 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+css: /assets/css/custom.css
+
 # SEO Related
 google_site_verification : # <meta name="google-site-verification" content="OrbqbGHi0mh8xqpqsPJnfTkl3_q207b0IypJEYfXSoo"/>
 bing_site_verification   :
