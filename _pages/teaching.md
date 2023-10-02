@@ -20,3 +20,15 @@ title: ""
 - Data Science in Public Health, Fall 2023
 	- Deliver three lectures and two recitation sessions on data prepossessing
 	- Design course syllabus, and prepare course materials and homework
+	- Student testimonials on clear lectures
+ 		- _“The lecture was easy to follow and was informative. Xiaoquan is very good at lecturing. She is clear and confident.”_
+		- _“She is passionate about what she’s talking about.”_
+		- _“I like that Xiaoquan makes examples on google colab for us to apply what we learn on the slides. She also speaks clearly and explains things well.”_
+		- _“I think she is very organized and cares about our learning.”_
+		- _“I think that Xiaoquan is a really great instructor. She outlines clear examples and how things work.”_
+	- Student testimonials on engaging the class
+ 		- _“I love how interactive Xiaoquan is with the class! She asks questions and really tries to get people engaged.”_
+		- _“She does a good job engaging the class and facilitating class discussion.”_
+		- _“I think explaining what we need to do before the coding and asking us to make us think about it really helps.”_
+		- _“I appreciate that she is very connected with the class and always asks if we understand and goes at a good pace.”_
+		- _“I think the instructor provides good examples for each of the concepts reviewed in class.”_
