@@ -51,6 +51,7 @@ atom_feed:
 
 css: /assets/css/custom.css
 classes: wide
+logo: "images/purdue.png"
 
 # SEO Related
 google_site_verification : # <meta name="google-site-verification" content="OrbqbGHi0mh8xqpqsPJnfTkl3_q207b0IypJEYfXSoo"/>
