@@ -194,18 +194,16 @@ collections:
 
 
 defaults:
-  # _posts
+  # _about
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       classes: wide
       author_profile: true
-      read_time: true
-      comments: true
       share: true
-      related: true
+      comment: true
   # _pages
   - scope:
       path: ""
@@ -217,7 +215,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: pages
     values:
       layout: single
       classes: wide
@@ -244,15 +242,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: single
-      classes: wide
-      author_profile: true
-      share: true
+
 
 # Sass/SCSS
 sass:
