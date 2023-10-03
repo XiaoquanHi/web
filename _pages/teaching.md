@@ -1,5 +1,7 @@
 ---
+layout: archive
 permalink: /teaching/
+author_profile: true
 title: ""
 ---
 <meta name="google-site-verification" content="OrbqbGHi0mh8xqpqsPJnfTkl3_q207b0IypJEYfXSoo" />
