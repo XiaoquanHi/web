@@ -49,8 +49,6 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-css: /assets/css/custom.css
-logo: "/images/purdue.png"
 
 # SEO Related
 google_site_verification : # <meta name="google-site-verification" content="OrbqbGHi0mh8xqpqsPJnfTkl3_q207b0IypJEYfXSoo"/>
@@ -159,6 +157,8 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+css: /assets/css/custom.css
+logo: "/images/purdue.png"
 
 # Conversion
 markdown: kramdown
