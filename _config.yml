@@ -243,6 +243,9 @@ defaults:
       share: true
       comment: true
 
+archive_layout:
+  type: wide
+  entries_layout: list
 
 # Sass/SCSS
 sass:
