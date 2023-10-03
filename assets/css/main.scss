@@ -40,11 +40,12 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-$right-sidebar-width-narrow: 100px !default;
-$right-sidebar-width: 100px !default;
-$right-sidebar-width-wide: 100px !default;
+$right-sidebar-width-narrow: 10px !default;
+$right-sidebar-width: 10px !default;
+$right-sidebar-width-wide: 10px !default;
 
-main {
-  max-width: 90%; /* or any desired percentage or pixel value */
+.main-content {
+  max-width: 95%; /* or any desired percentage or pixel value */
   margin: 0 auto; /* centers the content if it's not full width */
 }
+
