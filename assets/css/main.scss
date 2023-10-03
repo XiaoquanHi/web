@@ -43,3 +43,8 @@
 $right-sidebar-width-narrow: 100px !default;
 $right-sidebar-width: 100px !default;
 $right-sidebar-width-wide: 100px !default;
+
+main {
+  max-width: 90%; /* or any desired percentage or pixel value */
+  margin: 0 auto; /* centers the content if it's not full width */
+}
