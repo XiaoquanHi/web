@@ -24,15 +24,14 @@ Welcome! My name is Xiaoquan Gao. I am a fifth-year Ph.D. student in [School of 
 
 **I am on the 2023-2024 job market.**
 
-My research aims to enable data-driven, _socially responsible operations_ in public systems, from _healthcare_ to _criminal justice_. Despite their importance to societal welfare, decision-making in public systems often lacks analytical support and is not well-established in the operations literature. I believe that data-driven analytical support can drive meaningful changes to these systems, especially in addressing _complex tradeoffs_ and _resource constraints_. Central to my research are tools from data analytics, stochastic modeling, and reinforcement learning. In particular, my work has focused on (i) designing models that encapsulate the dynamic nature of public service operations; (ii) developing actionable algorithms tailored to the decision problem's structure.
-
-I have been working closely with _community partners_, ensuring that my research is both grounded in practice and positioned for _tangible implementation_. By bridging the theory and practice, I identify promising research directions where cross-disciplinary perspectives can uncover novel approaches to persistent challenges.
+My research aims to enable data-driven, _socially responsible operations_ in public systems, from _healthcare_ to _criminal justice_. Central to my research are tools from data analytics, stochastic modeling, and reinforcement learning. In particular, my work has focused on (i) designing models that encapsulate the dynamic nature of public service operations; (ii) developing actionable algorithms tailored to the decision problem's structure. I also actively work with _community partners_, ensuring that my research is both grounded in practice and positioned for _tangible implementation_. By bridging the theory and practice, I identify promising research directions where cross-disciplinary perspectives can uncover novel approaches to persistent challenges.
 
 ## Upcoming Talks at INFORMS Annual Meeting
   - _Title: Stopping The Revolving Door: MDP-based Decision Support For Community Corrections Placement_
-       - Session MC63 - Service Science Best Student Paper Award Competition (II); October 16, 12:45 PM - 2:00 PM, CC-West 102B
-       - Session TA21 - Healthcare Analytics and Sequential Decision Making; October 17, 8:00 AM - 9:15 AM, CC-North 128B
+       - **Session MC63** - Service Science Best Student Paper Award Competition (II); October 16, 12:45 PM - 2:00 PM, CC-West 102B (4th out of 4 speakers)
+       - **Session ME13** - Decision Analysis Society Student Paper Award Ceremony; October 16, 4:00 PM - 5:15 PM, CC-North 125A (7-minute short presentation as one of the two winners)
+       - **Session TA21** - Healthcare Analytics and Sequential Decision Making; October 17, 8:00 AM - 9:15 AM, CC-North 128B (3rd out of 4 speakers)
   - _Title: Shortening Emergency Medical Response Time with Unmanned Aerial Vehicle-Ambulance Joint Operations_
-       - Session TE21 - Innovations in Healthcare Operations for Improved Patient Outcomes; October 17, 4:00 PM - 5:15 PM, CC-North 128B
-  - Title: Implementation of Interpretable Placement Decision Support in Community Corrections 
-       - Session TE20 - Optimal Resource Allocation in Healthcare Operations; October 17, 4:00 PM - 5:15 PM, CC-North 128A (Will be given by co-author Dr. Pengyi Shi)
+       - **Session TE21** - Innovations in Healthcare Operations for Improved Patient Outcomes; October 17, 4:00 PM - 5:15 PM, CC-North 128B (3rd out of 4 speakers)
+  - _Title: Implementation of Interpretable Placement Decision Support in Community Corrections_ 
+       - **Session TE20** - Optimal Resource Allocation in Healthcare Operations; October 17, 4:00 PM - 5:15 PM, CC-North 128A (1st out of 4 speakers, will be given by co-author Dr. Pengyi Shi)
