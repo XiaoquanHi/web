@@ -50,6 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 css: /assets/css/custom.css
+layout: single
 classes: wide
 logo: "/images/purdue.png"
 
