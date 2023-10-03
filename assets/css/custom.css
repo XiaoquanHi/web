@@ -1,6 +1,8 @@
 ---
 ---
 
-.page {
-   $max-width:1440px;
+@import "{{ site.theme }}";
+
+.inner {
+  max-width: 75%;
 }
