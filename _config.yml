@@ -125,7 +125,7 @@ include:
   - files
   - images
   - _data
-  - sass
+  - assets
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
