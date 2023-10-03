@@ -50,8 +50,6 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 css: /assets/css/custom.css
-layout: single
-classes: wide
 logo: "/images/purdue.png"
 
 # SEO Related
@@ -199,6 +197,7 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: true
