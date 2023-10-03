@@ -28,7 +28,7 @@ title: ""
 		- _“I think she is very organized and cares about our learning.”_
 		- _“I think that Xiaoquan is a really great instructor. She outlines clear examples and how things work.”_
 	- Student testimonials on engaging the class
- 		- _“I love how interactive Xiaoquan is with the class! She asks questions and really tries to get people engaged.”_
+		- _“I love how interactive Xiaoquan is with the class! She asks questions and really tries to get people engaged.”_
 		- _“She does a good job engaging the class and facilitating class discussion.”_
 		- _“I think explaining what we need to do before the coding and asking us to make us think about it really helps.”_
 		- _“I appreciate that she is very connected with the class and always asks if we understand and goes at a good pace.”_
