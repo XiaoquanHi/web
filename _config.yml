@@ -230,6 +230,7 @@ defaults:
       type: publications
     values:
       layout: single
+      classes: wide
       author_profile: true
       share: true
       comments: true
@@ -248,7 +249,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
       classes: wide
       author_profile: true
       share: true
