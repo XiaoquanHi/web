@@ -28,11 +28,11 @@ My research aims to enable data-driven, _socially responsible operations_ in pub
 
 I have been working closely with _community partners_, ensuring that my research is both grounded in practice and positioned for _tangible implementation_. By bridging the theory and practice, I identify promising research directions where cross-disciplinary perspectives can uncover novel approaches to persistent challenges.
 
-## Upcoming Talks at INFORMS Annual Meeting, October 15-18, Phoenix, AZ
-  - Title: Stopping The Revolving Door: MDP-based Decision Support For Community Corrections Placement
+## Upcoming Talks at INFORMS Annual Meeting
+  - _Title: Stopping The Revolving Door: MDP-based Decision Support For Community Corrections Placement_
        - Session MC63 - Service Science Best Student Paper Award Competition (II); October 16, 12:45 PM - 2:00 PM, CC-West 102B
        - Session TA21 - Healthcare Analytics and Sequential Decision Making; October 17, 8:00 AM - 9:15 AM, CC-North 128B
-  - Title: Shortening Emergency Medical Response Time with Unmanned Aerial Vehicle-Ambulance Joint Operations
+  - _Title: Shortening Emergency Medical Response Time with Unmanned Aerial Vehicle-Ambulance Joint Operations_
        - Session TE21 - Innovations in Healthcare Operations for Improved Patient Outcomes; October 17, 4:00 PM - 5:15 PM, CC-North 128B
   - Title: Implementation of Interpretable Placement Decision Support in Community Corrections 
        - Session TE20 - Optimal Resource Allocation in Healthcare Operations; October 17, 4:00 PM - 5:15 PM, CC-North 128A (Will be given by co-author Dr. Pengyi Shi)
