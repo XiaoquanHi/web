@@ -18,10 +18,11 @@ title: ""
 
 # Teaching
 - Data Science in Public Health, Fall 2023
+	- Enrollment: 48 Engineering Undergraduate Students
 	- Deliver three lectures and two recitation sessions on data prepossessing
 	- Design course syllabus, and prepare course materials and homework
 	- Student testimonials on clear lectures
- 		- _“The lecture was easy to follow and was informative. Xiaoquan is very good at lecturing. She is clear and confident.”_
+   	* _“The lecture was easy to follow and was informative. Xiaoquan is very good at lecturing. She is clear and confident.”_
 		- _“She is passionate about what she’s talking about.”_
 		- _“I like that Xiaoquan makes examples on google colab for us to apply what we learn on the slides. She also speaks clearly and explains things well.”_
 		- _“I think she is very organized and cares about our learning.”_
