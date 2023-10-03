@@ -209,6 +209,7 @@ defaults:
       type: pages
     values:
       layout: single
+      classes: wide
       author_profile: true
   # _teaching
   - scope:
@@ -216,6 +217,7 @@ defaults:
       type: teaching
     values:
       layout: single
+      classes: wide
       author_profile: true
       share: true
       comments: true
@@ -234,6 +236,7 @@ defaults:
       type: research
     values:
       layout: single
+      classes: wide
       author_profile: true
       share: true
       comment: true
@@ -243,6 +246,7 @@ defaults:
       type: talks
     values:
       layout: talk
+      classes: wide
       author_profile: true
       share: true
 
