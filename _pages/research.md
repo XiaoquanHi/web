@@ -16,17 +16,19 @@ title: ""
   gtag('config', 'G-P44T7G85MC');
 </script>
 ## Working Papers
-1. **Xiaoquan Gao**, Pengyi Shi, Nan Kong, ["Stopping the revolving door: MDP-Based decision support for community corrections placement"](https://web.ics.purdue.edu/~shi178/CC_Manuscript.pdf), *In preparation for submission*
+1. **Xiaoquan Gao**, Pengyi Shi, Nan Kong, ["Stopping the revolving door: MDP-Based decision support for community corrections placement"](https://web.ics.purdue.edu/~shi178/CC_Manuscript.pdf), *In final preparation for submission to **Operations Research***
   - *First place, 2023 IISE Outstanding Innovation in Service Systems Engineering Award*
   - *Winner, 2023 INFORMS Decision Analysis Society Student Paper Award* 
   - *Finalist, 2023 INFORMS Service Science Best Student Paper Award* [[5-minute Talk]](https://www.youtube.com/watch?v=zT4U6GttGdg&t=1s)
-  - Study the placement decisions for community corrections and associated capacity planning via an MDP model and establish structural properties for policy insights
+  - Study the placement decisions for community corrections and associated capacity planning via a novel MDP model in this understudied area
+  - Propose a unified structural property analysis method for MDP with non-memoryless dynamics and non-linear costs
   - Propose a two-timescale approximation scheme for algorithmic solutions with global optimality guaranteed by the value function superconvexity
-  - Mitigate the incarceration congestion and improve individual outcomes through dynamic placment policy and provide insights into capacity planning in the criminal justice system
+  - Implement the algorithm into a user-friendly dashboard and provide staffing suggestions for local community corrections
 
-2. **Xiaoquan Gao**, Nan Kong, Paul M. Griffin, ["Shortening emergency medical response time with joint operations of UAVs with ambulances"](https://drive.google.com/file/d/1ZAs2ELgQvs7HpcW9WJNbHgCPcwNnKHWO/view?usp=share_link), Minor revision at *Manufacturing & Service Operations Management*.
-  - Extend the MDP-based EMS operations analytics framework for joint operations and design a set of effective basis functions in consideration of service heterogeneity of ambulances and UAVs (drones)
-  - Demonstrate the advantages of incorporating UAVs into the EMS system and provide guidance for EMS agencies on how to incorporate UAVs into their operations
+2. **Xiaoquan Gao**, Nan Kong, Paul M. Griffin, ["Shortening emergency medical response time with joint operations of UAVs with ambulances"](https://drive.google.com/file/d/1ZAs2ELgQvs7HpcW9WJNbHgCPcwNnKHWO/view?usp=share_link), **Accepted** by *Manufacturing & Service Operations Management*.
+  - Extend the MDP-based EMS operations analytics framework for joint operations in consideration of service heterogeneity 
+  - Design a reinforcement learning algorithm with neural-network-based value function approximation with tailored basis functions 
+  - Demonstrate the advantages of incorporating UAVs into the EMS system and provide operational guidance for EMS agencies
 
 ## Work in Progress
 1. **Xiaoquan Gao**, Griffin Carter, Pengyi Shi, and Nicole Adams. Implementation of interpretable placement decision support in community corrections. 
