@@ -25,7 +25,7 @@ title: ""
   - Propose a two-timescale approximation scheme for algorithmic solutions with global optimality guaranteed by the value function superconvexity
   - Implement the algorithm into a user-friendly dashboard and provide staffing suggestions for local community corrections
 
-2. **Xiaoquan Gao**, Nan Kong, Paul M. Griffin, ["Shortening emergency medical response time with joint operations of UAVs with ambulances"](https://drive.google.com/file/d/1ZAs2ELgQvs7HpcW9WJNbHgCPcwNnKHWO/view?usp=share_link), **Accepted** by *Manufacturing & Service Operations Management*.
+2. **Xiaoquan Gao**, Nan Kong, Paul M. Griffin, ["Shortening emergency medical response time with joint operations of UAVs with ambulances"](https://drive.google.com/file/d/1ZAs2ELgQvs7HpcW9WJNbHgCPcwNnKHWO/view?usp=share_link), **Accepted** at *Manufacturing & Service Operations Management*.
   - Extend the MDP-based EMS operations analytics framework for joint operations in consideration of service heterogeneity 
   - Design a reinforcement learning algorithm with neural-network-based value function approximation with tailored basis functions 
   - Demonstrate the advantages of incorporating UAVs into the EMS system and provide operational guidance for EMS agencies
