@@ -32,4 +32,4 @@ My research aims to enable data-driven, _socially responsible operations_ in pub
   - _Title: Shortening Emergency Medical Response Time with Unmanned Aerial Vehicle-Ambulance Joint Operations_
        - **Session TE21** - Innovations in Healthcare Operations for Improved Patient Outcomes; October 17, 4:00 PM - 5:15 PM, CC-North 128B (3rd out of 4 speakers)
   - _Title: Implementation of Interpretable Placement Decision Support in Community Corrections_ 
-       - **Session TE20** - Optimal Resource Allocation in Healthcare Operations; October 17, 4:00 PM - 5:15 PM, CC-North 128A (1st out of 4 speakers, will be given by co-author Dr. Pengyi Shi)
+       - **Session TE20** - Optimal Resource Allocation in Healthcare Operations; October 17, 4:00 PM - 5:15 PM, CC-North 128A (1st out of 4 speakers, will be given by Dr. Pengyi Shi)
