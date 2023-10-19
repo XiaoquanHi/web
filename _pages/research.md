@@ -19,23 +19,22 @@ title: ""
 1. **Xiaoquan Gao**, Pengyi Shi, Nan Kong, ["Stopping the revolving door: MDP-Based decision support for community corrections placement"](https://web.ics.purdue.edu/~shi178/CC_Manuscript.pdf), *In final preparation for submission to **Operations Research***
   - *First place, 2023 IISE Outstanding Innovation in Service Systems Engineering Award*
   - *Winner, 2023 INFORMS Decision Analysis Society Student Paper Award* 
-  - *Finalist, 2023 INFORMS Service Science Best Student Paper Award* [[5-minute Talk]](https://www.youtube.com/watch?v=zT4U6GttGdg&t=1s)
+  - *First place, 2023 INFORMS Service Science Best Student Paper Award* [[5-minute Talk]](https://www.youtube.com/watch?v=zT4U6GttGdg&t=1s)
   - Study the placement decisions for community corrections and associated capacity planning via a novel MDP model in this understudied area
   - Propose a unified structural property analysis method for MDP with non-memoryless dynamics and non-linear costs
-  - Propose a two-timescale approximation scheme for algorithmic solutions with global optimality guaranteed by the value function superconvexity
+  - Propose a two-timescale approximation scheme for reinforcement learning-based algorithmic solutions with global optimality implicated
   - Implement the algorithm into a user-friendly dashboard and provide staffing suggestions for local community corrections
-
-2. **Xiaoquan Gao**, Nan Kong, Paul M. Griffin, ["Shortening emergency medical response time with joint operations of UAVs with ambulances"](https://drive.google.com/file/d/1ZAs2ELgQvs7HpcW9WJNbHgCPcwNnKHWO/view?usp=share_link), **Accepted** at *Manufacturing & Service Operations Management*.
-  - Extend the MDP-based EMS operations analytics framework for joint operations in consideration of service heterogeneity 
-  - Design a reinforcement learning algorithm with neural-network-based value function approximation with tailored basis functions 
-  - Demonstrate the advantages of incorporating UAVs into the EMS system and provide operational guidance for EMS agencies
 
 ## Work in Progress
 1. **Xiaoquan Gao**, Griffin Carter, Pengyi Shi, and Nicole Adams. Implementation of interpretable placement decision support in community corrections. 
 
-## Published Papers
-1. **Xiaoquan Gao**, Sabriya Alam, Pengyi Shi, Franklin Dexter, and Nan Kong. Interpretable machine learning models to predict hospital patient readmission. *BMC Medical Informatics and Decision Making* 23.1 (2023): 1-11
-2. **Xiaoquan Gao**, Jianpei Wen, and Jie Song. "Capacity allocation and revenue sharing in healthcare alliances." *Flexible Services and Manufacturing Journal* 32.4 (2020): 829-851
+## Accepted Journal Papers
+1. **Xiaoquan Gao**, Nan Kong, Paul M. Griffin, ["Shortening emergency medical response time with joint operations of UAVs with ambulances"](https://drive.google.com/file/d/1ZAs2ELgQvs7HpcW9WJNbHgCPcwNnKHWO/view?usp=share_link), **Accepted** at *Manufacturing & Service Operations Management* (2023).
+  - Extend the MDP-based EMS operations analytics framework for joint operations in consideration of service heterogeneity 
+  - Design a reinforcement learning algorithm with neural-network-based value function approximation with tailored basis functions 
+  - Demonstrate the advantages of incorporating UAVs into the EMS system and provide operational guidance for EMS agencies
+2. **Xiaoquan Gao**, Sabriya Alam, Pengyi Shi, Franklin Dexter, and Nan Kong. Interpretable machine learning models to predict hospital patient readmission. *BMC Medical Informatics and Decision Making* 23.1 (2023): 1-11
+3. **Xiaoquan Gao**, Jianpei Wen, and Jie Song. "Capacity allocation and revenue sharing in healthcare alliances." *Flexible Services and Manufacturing Journal* 32.4 (2020): 829-851
 
 ## Conference Proceedings
 1. Nan Kong and Juan C. Paz and **Xiaoquan Gao**. "EMS operations management: simulation, optimization, and new service models" *2022 Winter Simulation Conference (WSC)*. IEEE, 2022
