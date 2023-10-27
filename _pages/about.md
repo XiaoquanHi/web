@@ -24,12 +24,10 @@ Welcome! My name is Xiaoquan Gao. I am a fifth-year Ph.D. student in [School of 
 
 My research aims to enable data-driven, _socially responsible operations_ in public systems, from _healthcare_ to _criminal justice_. Central to my research are tools from data analytics, stochastic modeling, and reinforcement learning. In particular, my work has focused on (i) designing models that encapsulate the dynamic nature of public service operations; (ii) developing actionable algorithms tailored to the decision problem's structure. I also actively work with _community partners_, ensuring that my research is both grounded in practice and positioned for tangible _implementation_. 
 
-## Upcoming Talks at INFORMS Annual Meeting
+## Recent Talks at INFORMS Annual Meeting
   - _Title: Stopping The Revolving Door: MDP-based Decision Support For Community Corrections Placement_
-       - **Session MC63** - Service Science Best Student Paper Award Competition (II); October 16, 12:45 PM - 2:00 PM, CC-West 102B (4th out of 4 speakers)
-       - **Session ME13** - Decision Analysis Society Award Ceremony; October 16, 4:00 PM - 5:15 PM, CC-North 125A (7-minute short presentation as one of the two student paper award winners)
-       - **Session TA21** - Healthcare Analytics and Sequential Decision Making; October 17, 8:00 AM - 9:15 AM, CC-North 128B (3rd out of 4 speakers)
+       - **Session MC63** - Service Science Best Student Paper Award Competition (II); October 16, 12:45 PM - 2:00 PM, CC-West 102B
+       - **Session ME13** - Decision Analysis Society Award Ceremony; October 16, 4:00 PM - 5:15 PM, CC-North 125A
+       - **Session TA21** - Healthcare Analytics and Sequential Decision Making; October 17, 8:00 AM - 9:15 AM, CC-North 128B
   - _Title: Shortening Emergency Medical Response Time with Unmanned Aerial Vehicle-Ambulance Joint Operations_
-       - **Session TE21** - Innovations in Healthcare Operations for Improved Patient Outcomes; October 17, 4:00 PM - 5:15 PM, CC-North 128B (3rd out of 4 speakers)
-  - _Title: Implementation of Interpretable Placement Decision Support in Community Corrections_ 
-       - **Session TE20** - Optimal Resource Allocation in Healthcare Operations; October 17, 4:00 PM - 5:15 PM, CC-North 128A (1st out of 4 speakers, will be given by Dr. Pengyi Shi)
+       - **Session TE21** - Innovations in Healthcare Operations for Improved Patient Outcomes; October 17, 4:00 PM - 5:15 PM, CC-North 128B
