@@ -15,7 +15,7 @@ title: ""
   gtag('config', 'G-P44T7G85MC');
 </script>
 # Student Mentoring
-- Mentor a Purdue Aeronautics and Astronautics Engineering master student: develop a user interface to visualize occupancy trends and crime rate forecasting and work on a paper together
+- Mentored a Purdue Aeronautics and Astronautics Engineering master student: developed a user interface to visualize occupancy trends and crime rate forecasting and worked on a paper together
 - Mentored a Purdue Electrical and Computer Engineering undergraduate student: built interpretable machine learning models for hospital readmission prediction and submitted a paper together
 
 # Teaching
