@@ -19,7 +19,7 @@ title: ""
 1. **Xiaoquan Gao**, Pengyi Shi, Nan Kong, ["Stopping the revolving door: MDP-Based decision support for community corrections placement"](https://web.ics.purdue.edu/~shi178/CC_Manuscript.pdf), *Submitted to **Operations Research***
   - *First place, 2023 IISE Outstanding Innovation in Service Systems Engineering Award*
   - *Winner, 2023 INFORMS Decision Analysis Society Student Paper Award* 
-  - *First place, 2023 INFORMS Service Science Best Student Paper Award* [[5-minute Talk]](https://www.youtube.com/watch?v=zT4U6GttGdg&t=1s)
+  - *First place, 2023 INFORMS Service Science IBM Best Student Paper Award* [[5-minute Talk]](https://www.youtube.com/watch?v=zT4U6GttGdg&t=1s)
   - Study the placement decisions for community corrections and associated capacity planning via a novel MDP model in this understudied area
   - Propose a unified structural property analysis method for MDP with non-memoryless dynamics and non-linear costs
   - Propose a two-timescale approximation scheme for reinforcement learning-based algorithmic solutions with global optimality implicated
