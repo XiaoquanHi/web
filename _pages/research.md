@@ -33,8 +33,8 @@ title: ""
   - Extend the MDP-based EMS operations analytics framework for joint operations in consideration of service heterogeneity 
   - Design a reinforcement learning algorithm with neural-network-based value function approximation with tailored basis functions 
   - Demonstrate the advantages of incorporating UAVs into the EMS system and provide operational guidance for EMS agencies
-2. **Xiaoquan Gao**, Sabriya Alam, Pengyi Shi, Franklin Dexter, and Nan Kong. Interpretable machine learning models to predict hospital patient readmission. *BMC Medical Informatics and Decision Making* 23.1 (2023): 1-11
-3. **Xiaoquan Gao**, Jianpei Wen, and Jie Song. "Capacity allocation and revenue sharing in healthcare alliances." *Flexible Services and Manufacturing Journal* 32.4 (2020): 829-851
+2. **Xiaoquan Gao**, Sabriya Alam, Pengyi Shi, Franklin Dexter, and Nan Kong. ["Interpretable machine learning models to predict hospital patient readmission"](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-023-02193-5). *BMC Medical Informatics and Decision Making* 23.1 (2023): 1-11
+3. **Xiaoquan Gao**, Jianpei Wen, and Jie Song. ["Capacity allocation and revenue sharing in healthcare alliances."](https://link.springer.com/article/10.1007/s10696-019-09356-5#:~:text=In%20the%20first%2Dstage%20cooperative,to%20maximize%20their%20own%20revenues.) *Flexible Services and Manufacturing Journal* 32.4 (2020): 829-851
 
 ## Conference Proceedings
 1. Nan Kong and Juan C. Paz and **Xiaoquan Gao**. "EMS operations management: simulation, optimization, and new service models" *2022 Winter Simulation Conference (WSC)*. IEEE, 2022
