@@ -29,7 +29,7 @@ title: ""
 1. **Xiaoquan Gao**, Griffin Carter, Pengyi Shi, and Nicole Adams. Implementation of interpretable placement decision support in community corrections. 
 
 ## Accepted Journal Papers
-1. **Xiaoquan Gao**, Nan Kong, Paul M. Griffin, ["Shortening emergency medical response time with joint operations of UAVs with ambulances"](https://drive.google.com/file/d/1ZAs2ELgQvs7HpcW9WJNbHgCPcwNnKHWO/view?usp=share_link), **Accepted** at *Manufacturing & Service Operations Management* (2023).
+1. **Xiaoquan Gao**, Nan Kong, Paul M. Griffin, ["Shortening emergency medical response time with joint operations of UAVs with ambulances"](https://pubsonline.informs.org/doi/10.1287/msom.2022.0166), **Accepted** at *Manufacturing & Service Operations Management* (2023).
   - Extend the MDP-based EMS operations analytics framework for joint operations in consideration of service heterogeneity 
   - Design a reinforcement learning algorithm with neural-network-based value function approximation with tailored basis functions 
   - Demonstrate the advantages of incorporating UAVs into the EMS system and provide operational guidance for EMS agencies
