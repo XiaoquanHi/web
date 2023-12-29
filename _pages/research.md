@@ -16,7 +16,7 @@ title: ""
   gtag('config', 'G-P44T7G85MC');
 </script>
 ## Working Papers
-1. **Xiaoquan Gao**, Pengyi Shi, Nan Kong, ["Stopping the revolving door: MDP-Based decision support for community corrections placement"](https://web.ics.purdue.edu/~shi178/CC_Manuscript.pdf), *Submitted to **Operations Research***
+1. **Xiaoquan Gao**, Pengyi Shi, Nan Kong, "Stopping the revolving door: MDP-Based decision support for community corrections placement"(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672337), *Submitted to **Operations Research***
   - *First place, 2023 IISE Outstanding Innovation in Service Systems Engineering Award*
   - *Winner, 2023 INFORMS Decision Analysis Society Student Paper Award* 
   - *First place, 2023 INFORMS Service Science IBM Best Student Paper Award* [[5-minute Talk]](https://www.youtube.com/watch?v=zT4U6GttGdg&t=1s)
