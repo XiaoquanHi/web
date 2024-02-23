@@ -22,8 +22,6 @@ redirect_from:
 </script>
 Welcome! My name is Xiaoquan Gao. I am a fifth-year Ph.D. student in [School of Industrial Engineering](http://engineering.purdue.edu/IE) at Purdue University. I am advised by Prof. [Nan Kong](https://engineering.purdue.edu/BASO/people/Nan_Kong), Prof. [Pengyi Shi](https://web.ics.purdue.edu/~shi178/), and Prof. [Paul M. Griffin](https://www.ime.psu.edu/department/directory-detail-g.aspx?q=pmg14). Previously, I received my bachelor’s degree in Theoretical and Applied Mechanics from [Peking University](https://english.pku.edu.cn/) in 2019. 
 
-**I am on the 2023-2024 academic job market!**
-
 My research aims to enable data-driven, _socially responsible operations_ in public systems, from _healthcare_ to _criminal justice_. Central to my research are tools from data analytics, stochastic modeling, and reinforcement learning. In particular, my work has focused on (i) designing models that encapsulate the dynamic nature of public service operations; (ii) developing actionable algorithms tailored to the decision problem's structure. I also actively work with _community partners_, ensuring that my research is both grounded in practice and positioned for tangible _implementation_. 
 
 ## Recent Talks at INFORMS Annual Meeting
