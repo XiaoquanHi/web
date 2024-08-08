@@ -24,6 +24,14 @@ Welcome! My name is Xiaoquan Gao. I am a Ph.D. candidate in [School of Industria
 
 My research aims to enable data-driven, _socially responsible operations_ in public systems, from _healthcare_ to _criminal justice_. Central to my research are tools from data analytics, stochastic modeling, and reinforcement learning. In particular, my work has focused on (i) designing models that encapsulate the dynamic nature of public service operations; (ii) developing actionable algorithms tailored to the decision problem's structure. I also actively work with _community partners_, ensuring that my research is both grounded in practice and positioned for tangible _implementation_. 
 
+I will join [Singapore Management University](https://www.smu.edu.sg) as an Assistant Professor of [Operations Management](https://business.smu.edu.sg/disciplines/operations-management) in January 2025!
+
+## News
+  - I will give a poster presentation on our recent work in criminal justice operations in the TTIC workshop [Data-Driven Decision Processes: From Theory to Practice](https://sites.google.com/stern.nyu.edu/ttic-d3p-workshop-2024), Chicago, August 26 - August 28, 2024.
+  - I will give a talk on our recent work in criminal justice operations in [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/), Seattle, October 20-23, 2024.
+  - I will chair a session on "Analytics for Social Good: Public Sector Operations" in [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/), Seattle, October 20-23, 2024.
+
+<!-- 
 ## Recent Talks at INFORMS Annual Meeting 2023
   - _Title: Stopping The Revolving Door: MDP-based Decision Support For Community Corrections Placement_
        - **Session MC63** - Service Science Best Student Paper Award Competition (II); October 16, 12:45 PM - 2:00 PM, CC-West 102B
@@ -31,3 +39,4 @@ My research aims to enable data-driven, _socially responsible operations_ in pub
        - **Session TA21** - Healthcare Analytics and Sequential Decision Making; October 17, 8:00 AM - 9:15 AM, CC-North 128B
   - _Title: Shortening Emergency Medical Response Time with Unmanned Aerial Vehicle-Ambulance Joint Operations_
        - **Session TE21** - Innovations in Healthcare Operations for Improved Patient Outcomes; October 17, 4:00 PM - 5:15 PM, CC-North 128B
+-->
