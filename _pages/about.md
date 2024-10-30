@@ -26,7 +26,8 @@ My research aims to enable data-driven, _socially responsible operations_ in pub
 
 ## News
 - I will join [Singapore Management University](https://www.smu.edu.sg) as an Assistant Professor of [Operations Management](https://business.smu.edu.sg/disciplines/operations-management) in January 2025!
-<!--   - I will give a talk on our recent work in criminal justice operations in [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/), Seattle, October 20-23, 2024.
+<!--   
+  - I will give a talk on our recent work in criminal justice operations in [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/), Seattle, October 20-23, 2024.
   - I will chair a session on "Analytics for Social Good: Public Sector Operations" in [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/), Seattle, October 20-23, 2024.
 -->
 
