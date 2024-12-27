@@ -26,10 +26,11 @@ title: ""
   - Implement the algorithm into a user-friendly dashboard and provide staffing suggestions for local community corrections
 
 ## Work in Progress
-1. **Xiaoquan Gao**, Griffin Carter, Pengyi Shi, and Nicole Adams. Implementation of interpretable placement decision support in community corrections. 
+1. **Xiaoquan Gao**, Pengyi Shi. A Two-Step Approach to Correctional Facility Placement: Practical Value and Asymptotic Optimality
+2. Tri Quang Vo, **Xiaoquan Gao**, Pengyi Shi. Bridging Prediction and Decision in Jail Diversion: The Power of Interpretability
 
-## Accepted Journal Papers
-1. **Xiaoquan Gao**, Nan Kong, Paul M. Griffin, ["Shortening emergency medical response time with joint operations of UAVs with ambulances"](https://pubsonline.informs.org/doi/10.1287/msom.2022.0166), **Accepted** at *Manufacturing & Service Operations Management* (2023).
+## Journal Papers
+1. **Xiaoquan Gao**, Nan Kong, Paul M. Griffin, ["Shortening emergency medical response time with joint operations of UAVs with ambulances"](https://pubsonline.informs.org/doi/10.1287/msom.2022.0166), *Manufacturing & Service Operations Management* 26.2 (2024): 447-464.
   - Extend the MDP-based EMS operations analytics framework for joint operations in consideration of service heterogeneity 
   - Design a reinforcement learning algorithm with neural-network-based value function approximation with tailored basis functions 
   - Demonstrate the advantages of incorporating UAVs into the EMS system and provide operational guidance for EMS agencies
