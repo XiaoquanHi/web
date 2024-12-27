@@ -20,6 +20,7 @@ title: ""
   - *Winner, [2023 INFORMS Decision Analysis Society Student Paper Award](https://connect.informs.org/das/awards/das-student-paper-award)* 
   - *First place, [2023 INFORMS Service Science IBM Best Student Paper Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Service-Science-Section/IBM-Best-Student-Paper-Award-Competition)* [[5-minute Talk]](https://www.youtube.com/watch?v=zT4U6GttGdg&t=1s)
   - *First place, [2023 IISE Outstanding Innovation in Service Systems Engineering Award](https://www.iise.org/details.aspx?id=47493)*
+
 <!--
   - Study the placement decisions for community corrections and associated capacity planning via a novel MDP model in this understudied area
   - Propose a unified structural property analysis method for MDP with non-memoryless dynamics and non-linear costs
@@ -33,6 +34,7 @@ title: ""
 
 ## Journal Papers
 1. **Xiaoquan Gao**, Nan Kong, Paul M. Griffin, ["Shortening emergency medical response time with joint operations of UAVs with ambulances"](https://pubsonline.informs.org/doi/10.1287/msom.2022.0166), *Manufacturing & Service Operations Management* 26.2 (2024): 447-464.
+   
 <!--
   - Extend the MDP-based EMS operations analytics framework for joint operations in consideration of service heterogeneity 
   - Design a reinforcement learning algorithm with neural-network-based value function approximation with tailored basis functions 
