@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.inner {
-  width:1200px;
+.content {
+    max-width: 80%;
+    margin: auto; /* Center the content */
 }
