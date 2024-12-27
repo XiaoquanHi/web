@@ -20,7 +20,7 @@ redirect_from:
 
   gtag('config', 'G-P44T7G85MC');
 </script>
-Welcome! I am an Assistant Professor of Operations Management of the [Lee Kong Chian School of Business (LKCSB)](https://business.smu.edu.sg) at the [Singapore Management University](https://www.smu.edu.sg). I obtained my Ph.D. in Operations Research at Edwardson School of Industrial Engineering of Purdue University, under the supervision of Prof. Nan Kong, Prof. Pengyi Shi, and Paul M. Griffin. Previously, I received my bachelor’s degree in Theoretical and Applied Mechanics from Peking University in 2019. 
+Welcome! I am an Assistant Professor of Operations Management of the [Lee Kong Chian School of Business (LKCSB)](https://business.smu.edu.sg) at the [Singapore Management University](https://www.smu.edu.sg). I obtained my Ph.D. in Industrial Engineering at Edwardson School of Industrial Engineering of Purdue University in 2024, under the supervision of Prof. Nan Kong, Prof. Pengyi Shi, and Prof. Paul M. Griffin. Previously, I received my bachelor’s degree in Theoretical and Applied Mechanics from Peking University in 2019. 
 
 My research aims to enable data-driven, socially responsible operations in public systems, from healthcare to criminal justice. Central to my research are tools from data analytics, stochastic modeling and control, and reinforcement learning. In particular, my work has focused on (i) designing models that encapsulate the dynamic nature of public service operations; (ii) developing actionable algorithms tailored to the decision problem's structure. I also actively work with community partners, ensuring that my research is both grounded in practice and positioned for tangible implementation. More details can be found on my [CV](/CV.pdf).
 
