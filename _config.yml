@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiaoquan Gao"
 title_separator          : "-"
 name                     : &name "Xiaoquan Gao"
-description              : &description "Ph.D. candidate, Industrial Engineering, Purdue University"
+description              : &description "Assistant Professor at Singapore Management University"
 url                      : "https://xiaoquanhi.github.io/web" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaoquanhi.github.io/xiaoquan_gao"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Xiaoquan Gao"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate, Industrial Engineering, Purdue University"
-  location         : "West Lafayette, IN"
+  bio              : "Assistant Professor at Singapore Management University"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=s2IsRm8AAAAJ&hl=en"
-  email            : "gao568@purdue.edu"
+  email            : "xiaoquangao@smu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
