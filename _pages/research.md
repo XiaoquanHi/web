@@ -29,7 +29,7 @@ title: ""
 -->
 
 ## Work in Progress
-1. **Xiaoquan Gao**, Pengyi Shi. A Two-Step Approach to Correctional Facility Placement: Practical Value and Asymptotic Optimality
+1. **Xiaoquan Gao**, Pengyi Shi. Routing with Delayed Revelation of Feature Information
 2. Tri Quang Vo, **Xiaoquan Gao**, Pengyi Shi. Bridging Prediction and Decision in Jail Diversion: The Power of Interpretability
 
 ## Journal Papers
