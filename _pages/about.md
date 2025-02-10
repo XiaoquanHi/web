@@ -24,7 +24,7 @@ Welcome! I am an Assistant Professor of Operations Management of the [Lee Kong C
 
 Before joining SMU, I earned my Ph.D. in Industrial Engineering from Purdue University in 2024, advised by Prof. Nan Kong, Prof. Pengyi Shi, and Prof. Paul M. Griffin. Prior to that, I received my bachelor’s degree in Theoretical and Applied Mechanics from Peking University in 2019. 
 
-[[Link to my university profle]](https://faculty.smu.edu.sg/profile/xiaoquan-gao-7966) [[My CV]](https://xiaoquanhi.github.io/web/cv/)
+[[Link to my university profile]](https://faculty.smu.edu.sg/profile/xiaoquan-gao-7966) [[My CV]](https://xiaoquanhi.github.io/web/cv/)
 
 <!-- 
 ## News
