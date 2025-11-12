@@ -29,22 +29,22 @@ title: ""
 -->
 
 ## Work in Progress
-1. **Dynamic Routing under Delayed Individual Information and Enduring Impact.**  
-   **Xiaoquan Gao** and **Pengyi Shi**.  
+1. Dynamic Routing under Delayed Individual Information and Enduring Impact.
+   **Xiaoquan Gao** and Pengyi Shi. 
    - Presentations: POMS 2025, MSOM 2025, INFORMS International 2025, Singapore Analytics and Operations Day 2025, INFORMS 2025, POMS-HK 2026 (scheduled)
 
-2. **Bridging Prediction and Decision in Jail Diversion: The Power of Interpretability.**  
-   <u>Tri Quang Vo</u>, **Xiaoquan Gao**, and **Pengyi Shi**.
+2. Bridging Prediction and Decision in Jail Diversion: The Power of Interpretability.  
+   <u>Tri Quang Vo</u>, **Xiaoquan Gao**, and Pengyi Shi.
    
-4. **Dynamic Scheduling with Switching Costs: Theory and Applications to Healthcare Operations.**  
-   **Xiaoquan Gao**, **Yvonne Huijun Zhu**, and **Joel Goh**.  
+4. Dynamic Scheduling with Switching Costs: Theory and Applications to Healthcare Operations. 
+   **Xiaoquan Gao**, Yvonne Huijun Zhu, and Joel Goh.  
    - Presentations: POMS-HK 2026 (scheduled)
 
-5. **When AI Listens First: Crisis Triage and Emotional Support in Mental Health Helplines.**  
-   **Xiaoquan Gao**† and **Yanhan (Savannah) Tang**†.  
+5. When AI Listens First: Crisis Triage and Emotional Support in Mental Health Helplines.
+   **Xiaoquan Gao**† and Yanhan (Savannah) Tang†.  
    - Presentations: POMS-HK 2026 (scheduled), POMS 2026 (scheduled, presented by co-author)
 
-† denotes co–first authors; <u>underline</u> denotes student mentee  
+† denotes co–first authors; <u>underline</u> denotes student mentee.  
 
 ## Journal Papers
 1. **Xiaoquan Gao**, Nan Kong, Paul M. Griffin, ["Shortening emergency medical response time with joint operations of UAVs with ambulances"](https://pubsonline.informs.org/doi/10.1287/msom.2022.0166), *Manufacturing & Service Operations Management* 26.2 (2024): 447-464.
