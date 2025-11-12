@@ -16,7 +16,7 @@ title: ""
   gtag('config', 'G-P44T7G85MC');
 </script>
 ## Working Papers
-1. **Xiaoquan Gao**, Pengyi Shi, Nan Kong, ["Stopping the revolving door: MDP-Based decision support for community corrections placement"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672337), *Major Revision at **Operations Research***
+1. **Xiaoquan Gao**, Pengyi Shi, Nan Kong, ["Stopping the revolving door: MDP-Based decision support for community corrections placement"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672337), *Under 2nd Round Review at **Operations Research***
   - *Winner, 2023 INFORMS Decision Analysis Society Student Paper Award* [[link]](https://connect.informs.org/das/awards/das-student-paper-award)
   - *First place, 2023 INFORMS Service Science IBM Best Student Paper Award* [[link]](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Service-Science-Section/IBM-Best-Student-Paper-Award-Competition) [[5-minute Talk]](https://www.youtube.com/watch?v=zT4U6GttGdg&t=1s)
   - *First place, 2023 IISE Outstanding Innovation in Service Systems Engineering Award* [[link]](https://www.iise.org/details.aspx?id=47493)
@@ -29,8 +29,22 @@ title: ""
 -->
 
 ## Work in Progress
-1. **Xiaoquan Gao**, Pengyi Shi. Routing with Delayed Revelation of Feature Information
-2. Tri Quang Vo, **Xiaoquan Gao**, Pengyi Shi. Bridging Prediction and Decision in Jail Diversion: The Power of Interpretability
+1. **Dynamic Routing under Delayed Individual Information and Enduring Impact.**  
+   **Xiaoquan Gao** and **Pengyi Shi**.  
+   - Presentations: POMS 2025, MSOM 2025, INFORMS International 2025, Singapore Analytics and Operations Day 2025, INFORMS 2025, POMS-HK 2026 (scheduled)
+
+2. **Bridging Prediction and Decision in Jail Diversion: The Power of Interpretability.**  
+   <u>Tri Quang Vo</u>, **Xiaoquan Gao**, and **Pengyi Shi**.
+   
+4. **Dynamic Scheduling with Switching Costs: Theory and Applications to Healthcare Operations.**  
+   **Xiaoquan Gao**, **Yvonne Huijun Zhu**, and **Joel Goh**.  
+   - Presentations: POMS-HK 2026 (scheduled)
+
+5. **When AI Listens First: Crisis Triage and Emotional Support in Mental Health Helplines.**  
+   **Xiaoquan Gao**† and **Yanhan (Savannah) Tang**†.  
+   - Presentations: POMS-HK 2026 (scheduled), POMS 2026 (scheduled, presented by co-author)
+
+† denotes co–first authors; <u>underline</u> denotes student mentee  
 
 ## Journal Papers
 1. **Xiaoquan Gao**, Nan Kong, Paul M. Griffin, ["Shortening emergency medical response time with joint operations of UAVs with ambulances"](https://pubsonline.informs.org/doi/10.1287/msom.2022.0166), *Manufacturing & Service Operations Management* 26.2 (2024): 447-464.
