@@ -28,6 +28,10 @@ Before joining SMU, I earned my Ph.D. in Industrial Engineering from Purdue Univ
 
 [[My SMU Profile]](https://faculty.smu.edu.sg/profile/xiaoquan-gao-7966) [[My CV]](https://xiaoquanhi.github.io/web/cv/)
 
+## Upcoming Conferences
+
+I will be attending **MSOM 2026**, the **INFORMS Healthcare Conference 2026**, and the **INFORMS Annual Meeting 2026**, and look forward to connecting there!
+
 <!-- 
 ## News
 - I will join [Singapore Management University](https://www.smu.edu.sg) as an Assistant Professor of [Operations Management](https://business.smu.edu.sg/disciplines/operations-management) in January 2025!
