@@ -30,7 +30,7 @@ Before joining SMU, I earned my Ph.D. in Industrial Engineering from Purdue Univ
 
 ## Upcoming Conferences
 
-I will be attending **MSOM 2026**, the **INFORMS Healthcare Conference 2026**, and the **INFORMS Annual Meeting 2026**, and look forward to connecting there!
+I will be attending _MSOM 2026_, the _INFORMS Healthcare Conference 2026_, and the _INFORMS Annual Meeting 2026_, and look forward to connecting there!
 
 <!-- 
 ## News
