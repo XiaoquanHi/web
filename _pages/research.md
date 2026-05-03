@@ -21,6 +21,12 @@ title: ""
   - *First place, 2023 INFORMS Service Science IBM Best Student Paper Award* [[link]](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Service-Science-Section/IBM-Best-Student-Paper-Award-Competition) [[5-minute Talk]](https://www.youtube.com/watch?v=zT4U6GttGdg&t=1s)
   - *First place, 2023 IISE Outstanding Innovation in Service Systems Engineering Award* [[link]](https://www.iise.org/details.aspx?id=47493)
 
+2. **Xiaoquan Gao**† and Yanhan (Savannah) Tang†, ["When AI Listens First: Crisis Triage and Emotional Support in Mental Health Helplines"] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6337539), *Under Major Revision at **Manufacturing & Service Operations Management***
+   - Presentations: POMS-HK 2026, POMS 2026 (scheduled, presented by co-author), INFORMS Healthcare 2026 (scheduled)
+
+3. **Xiaoquan Gao** and Pengyi Shi, Dynamic Routing under Delayed Individual Information and Long-term Impact. *In preparation for submission.*
+   - Presentations: POMS 2025, MSOM 2025, INFORMS International 2025, Singapore Analytics and Operations Day 2025, INFORMS 2025, POMS-HK 2026, INFORMS Healthcare 2026 (scheduled)
+
 <!--
   - Study the placement decisions for community corrections and associated capacity planning via a novel MDP model in this understudied area
   - Propose a unified structural property analysis method for MDP with non-memoryless dynamics and non-linear costs
@@ -29,19 +35,11 @@ title: ""
 -->
 
 ## Work in Progress
-1. Dynamic Routing under Delayed Individual Information and Long-term Impact.
-   **Xiaoquan Gao** and Pengyi Shi. 
-   - Presentations: POMS 2025, MSOM 2025, INFORMS International 2025, Singapore Analytics and Operations Day 2025, INFORMS 2025, POMS-HK 2026, INFORMS Healthcare 2026 (scheduled)
-
-2. When AI Listens First: Crisis Triage and Emotional Support in Mental Health Helplines.
-   **Xiaoquan Gao**† and Yanhan (Savannah) Tang†.  
-   - Presentations: POMS-HK 2026, POMS 2026 (scheduled, presented by co-author), INFORMS Healthcare 2026 (scheduled)
-   
-3. Dynamic Scheduling with Switching Costs: Theory and Applications to Healthcare Operations. 
+1. Dynamic Scheduling with Switching Costs: Theory and Applications to Healthcare Operations. 
    **Xiaoquan Gao**, Yvonne Huijun Zhu, and Joel Goh.  
    - Presentations: POMS-HK 2026, INFORMS Healthcare 2026 (scheduled)
 
-5. Bridging Prediction and Decision in Jail Diversion: The Power of Interpretability.  
+2. Bridging Prediction and Decision in Jail Diversion: The Power of Interpretability.  
    <u>Tri Quang Vo</u>, **Xiaoquan Gao**, and Pengyi Shi.
 
 † denotes co–first authors; <u>underline</u> denotes student mentee.  
