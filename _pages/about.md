@@ -20,9 +20,7 @@ redirect_from:
 
   gtag('config', 'G-P44T7G85MC');
 </script>
-Welcome! I am an Assistant Professor of Operations Management of the [Lee Kong Chian School of Business (LKCSB)](https://business.smu.edu.sg) at the [Singapore Management University](https://www.smu.edu.sg). 
-
-My research develops stochastic models and controls to enable data-driven, socially responsible operations in healthcare and criminal justice:
+Welcome! I am an Assistant Professor of Operations Management of the [Lee Kong Chian School of Business (LKCSB)](https://business.smu.edu.sg) at the [Singapore Management University](https://www.smu.edu.sg). My research develops stochastic models and controls to enable data-driven, socially responsible operations in healthcare and criminal justice:
 
 - **Criminal justice operations:** Addressing the complex dynamics of resource-strained criminal justice systems to improve society reintegration outcomes and substance use disorder treatment.
 - **Healthcare operational efficiency:** Tackling operational challenges in day-to-day healthcare operations, such as decision-making under delayed information and strategies to reduce costly task switching.
