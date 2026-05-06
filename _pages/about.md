@@ -22,7 +22,13 @@ redirect_from:
 </script>
 Welcome! I am an Assistant Professor of Operations Management of the [Lee Kong Chian School of Business (LKCSB)](https://business.smu.edu.sg) at the [Singapore Management University](https://www.smu.edu.sg). 
 
-My research aims to enable _data-driven, socially responsible operations_ in public systems, from _healthcare_ to _criminal justice_. Central to my research are tools from data analytics, stochastic modeling and control, and reinforcement learning. In particular, my work has focused on (i) modeling the dynamic and uncertain environments underlying public and service operations, (ii) characterizing the optimal policies and structural properties that guide effective decisions, and (iii) designing computationally tractable algorithms informed by these theoretical insights. Beyond methodological advances, I collaborate with practitioners across healthcare, criminal justice, and social sectors to translate these tools into solutions that enhance efficiency, effectiveness, and long-term sustainability.
+My research aims to enable data-driven, socially responsible operations in public systems, especially healthcare and criminal justice systems. My research develops stochastic models and controls to improve operations in healthcare and criminal justice:
+
+- **Criminal justice operations:** Addressing the complex dynamics of resource-strained criminal justice systems to improve society reintegration outcomes and substance use disorder treatment.
+- **Healthcare operational efficiency:** Tackling operational challenges in day-to-day healthcare operations, such as decision-making under delayed information and strategies to reduce costly task switching.
+- **Operations-aware AI in healthcare:** Integrating operational realities into AI system design and facilitating effective AI adoption within clinical workflows.
+
+Close conversations and collaboration with practitioners are central to my research, ensuring that the models I develop translate into meaningful, implementable solutions.
 
 Before joining SMU, I earned my Ph.D. in Industrial Engineering from Purdue University in 2024, advised by Prof. Nan Kong, Prof. [Pengyi Shi](https://web.ics.purdue.edu/~shi178/), and Prof. [Paul M. Griffin](https://www.ime.psu.edu/department/directory-detail-g.aspx?q=pmg14). Prior to that, I received my bachelor’s degree in Theoretical and Applied Mechanics from Peking University in 2019. 
 
@@ -33,6 +39,8 @@ Before joining SMU, I earned my Ph.D. in Industrial Engineering from Purdue Univ
 I will be attending _MSOM 2026_, the _INFORMS Healthcare Conference 2026_, and the _INFORMS Annual Meeting 2026_, and look forward to connecting there!
 
 <!-- 
+In particular, my work has focused on (i) modeling the dynamic and uncertain environments underlying public and service operations, (ii) characterizing the optimal policies and structural properties that guide effective decisions, and (iii) designing computationally tractable algorithms informed by these theoretical insights. Beyond methodological advances, I collaborate with practitioners across healthcare, criminal justice, and social sectors to translate these tools into solutions that enhance efficiency, effectiveness, and long-term sustainability.
+
 ## News
 - I will join [Singapore Management University](https://www.smu.edu.sg) as an Assistant Professor of [Operations Management](https://business.smu.edu.sg/disciplines/operations-management) in January 2025!
 ## Recent Talks at INFORMS Annual Meeting 2023
