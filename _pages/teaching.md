@@ -15,8 +15,9 @@ title: ""
   gtag('config', 'G-P44T7G85MC');
 </script>
 # Teaching at SMU
-- **Decision Analysis (Undergraduate Core)**  
-  Term 1, AY2025–2026 (Fall 2025) — 2 sections (44 students each)
+- **Decision Analysis (Undergraduate Core)**
+- 	Term 1, AY2026–2027 (Fall 2026), 2 sections
+- 	Term 1, AY2025–2026 (Fall 2025), 2 sections
 
 # Teaching at Purdue
 - Data Science in Public Health, Fall 2023
