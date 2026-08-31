@@ -23,6 +23,7 @@ title: ""
 
 2. **Xiaoquan Gao**† and Yanhan (Savannah) Tang†, ["When AI Listens First: Crisis Triage and Emotional Support in Mental Health Helplines"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6337539), *Under Major Revision at **Manufacturing & Service Operations Management***
    - Presentations: POMS-HK 2026, INFORMS Healthcare 2026, INFORMS 2026 (scheduled, presented by co-author)
+   - *Finalist, 2026 INFORMS Service Science Cluster Best Paper Award* 
 
 3. **Xiaoquan Gao** and Pengyi Shi, Dynamic Routing under Delayed Individual Information and Long-term Impact. *In preparation for submission*
    - Presentations: POMS 2025, MSOM 2025, INFORMS International 2025, Singapore Analytics and Operations Day 2025, INFORMS 2025, POMS-HK 2026, INFORMS Healthcare 2026, INFORMS 2026 (scheduled)
