@@ -34,8 +34,7 @@ title: ""
 2. **Xiaoquan Gao** and Pengyi Shi, Dynamic Routing under Delayed Individual Information and Long-term Impact. *In preparation for submission*
    - Presentations: POMS 2025, MSOM 2025, INFORMS International 2025, Singapore Analytics and Operations Day 2025, INFORMS 2025, POMS-HK 2026, INFORMS Healthcare 2026, SMU OM Summer Camp 2026, INFORMS 2026
 
-3. Dynamic Scheduling with Switching Costs: Theory and Applications to Healthcare Operations.  *In preparation for submission*
-   **Xiaoquan Gao**, Yvonne Huijun Zhu, and Joel Goh.  
+3. **Xiaoquan Gao**, Yvonne Huijun Zhu, and Joel Goh. Dynamic Scheduling with Switching Costs: Theory and Applications to Healthcare Operations.  *In preparation for submission*
    - Presentations: POMS-HK 2026, INFORMS Healthcare 2026, POMS 2027 (Scheduled)
 
 4. Bridging Prediction and Decision in Jail Diversion: The Power of Interpretability.  
