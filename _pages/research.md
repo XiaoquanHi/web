@@ -37,8 +37,8 @@ title: ""
 3. **Xiaoquan Gao**, Yvonne Huijun Zhu, and Joel Goh. Dynamic Scheduling with Switching Costs: Theory and Applications to Healthcare Operations.  *In preparation for submission*
    - Presentations: POMS-HK 2026, INFORMS Healthcare 2026, POMS 2027 (Scheduled)
 
-4. Bridging Prediction and Decision in Jail Diversion: The Power of Interpretability.  
-   <u>Tri Quang Vo</u>, **Xiaoquan Gao**, and Pengyi Shi.
+4. <u>Tri Quang Vo</u>, **Xiaoquan Gao**, and Pengyi Shi. Bridging Prediction and Decision in Jail Diversion: The Power of Interpretability. *In preparation for submission*
+   
 
 ## Conference Proceedings
 1. Nan Kong and Juan C. Paz and **Xiaoquan Gao**. "EMS operations management: simulation, optimization, and new service models" *2022 Winter Simulation Conference (WSC)*. IEEE, 2022
