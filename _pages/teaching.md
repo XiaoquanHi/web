@@ -20,9 +20,10 @@ title: ""
 - 	Term 1, AY2025–2026 (Fall 2025), 2 sections
 
 # Teaching at Purdue
-- Data Science in Public Health, Fall 2023
+- Data Science in Public Health (Undergraduate Elective), Fall 2023
+<!-- 
 	- Enrollment: 48 Engineering Undergraduate Students
-	- Deliver three lectures and two recitation sessions on data prepossessing
+	- Deliver three lectures and two recitation sessions on data preprocessing
 	- Design course syllabus, and prepare course materials and homework
 	- Student testimonials on clear lectures
 		- _“The lecture was easy to follow and was informative. Xiaoquan is very good at lecturing. She is clear and confident.”_
@@ -36,6 +37,7 @@ title: ""
 		- _“I think explaining what we need to do before the coding and asking us to make us think about it really helps.”_
 		- _“I appreciate that she is very connected with the class and always asks if we understand and goes at a good pace.”_
 		- _“I think the instructor provides good examples for each of the concepts reviewed in class.”_
+-->
  
 # Student Mentoring
 - Mentored a Purdue Aeronautics and Astronautics Engineering master student: developed a user interface to visualize occupancy trends and crime rate forecasting and worked on a paper together
