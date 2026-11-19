@@ -22,11 +22,6 @@ title: ""
   
 2. **Xiaoquan Gao**, Nan Kong, Paul M. Griffin, ["Shortening emergency medical response time with joint operations of UAVs with ambulances"](https://pubsonline.informs.org/doi/10.1287/msom.2022.0166), *Manufacturing & Service Operations Management* 26.2 (2024): 447-464.
    
-<!--
-  - Extend the MDP-based EMS operations analytics framework for joint operations in consideration of service heterogeneity 
-  - Design a reinforcement learning algorithm with neural-network-based value function approximation with tailored basis functions 
-  - Demonstrate the advantages of incorporating UAVs into the EMS system and provide operational guidance for EMS agencies
--->
 3. **Xiaoquan Gao**, Sabriya Alam, Pengyi Shi, Franklin Dexter, and Nan Kong. ["Interpretable machine learning models to predict hospital patient readmission"](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-023-02193-5). *BMC Medical Informatics and Decision Making* 23.1 (2023): 1-11
 4. **Xiaoquan Gao**, Jianpei Wen, and Jie Song. ["Capacity allocation and revenue sharing in healthcare alliances."](https://link.springer.com/article/10.1007/s10696-019-09356-5) *Flexible Services and Manufacturing Journal* 32.4 (2020): 829-851
 
@@ -39,9 +34,9 @@ title: ""
 2. **Xiaoquan Gao** and Pengyi Shi, Dynamic Routing under Delayed Individual Information and Long-term Impact. *In preparation for submission*
    - Presentations: POMS 2025, MSOM 2025, INFORMS International 2025, Singapore Analytics and Operations Day 2025, INFORMS 2025, POMS-HK 2026, INFORMS Healthcare 2026, SMU OM Summer Camp 2026, INFORMS 2026
 
-3. Dynamic Scheduling with Switching Costs: Theory and Applications to Healthcare Operations. 
+3. Dynamic Scheduling with Switching Costs: Theory and Applications to Healthcare Operations.  *In preparation for submission*
    **Xiaoquan Gao**, Yvonne Huijun Zhu, and Joel Goh.  
-   - Presentations: POMS-HK 2026, INFORMS Healthcare 2026
+   - Presentations: POMS-HK 2026, INFORMS Healthcare 2026, POMS 2027 (Scheduled)
 
 4. Bridging Prediction and Decision in Jail Diversion: The Power of Interpretability.  
    <u>Tri Quang Vo</u>, **Xiaoquan Gao**, and Pengyi Shi.
